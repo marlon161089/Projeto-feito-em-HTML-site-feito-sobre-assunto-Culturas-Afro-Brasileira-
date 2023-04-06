@@ -1,0 +1,255 @@
+<!DOCTYPE HTML>
+<html>
+
+<head>
+    <title> Temas culturais</title>
+</head>
+
+<body>
+<center>
+    <a href="https://www.tuiuti.edu.br/">
+        <img src="imagemutp.png" alt=" este é o site da utp">
+    </a>
+        
+        <h1>Temas de pesquisa sobre os temas Socioculturais indicados pelo MEC – Ministério da Educação e Cultura </h1>
+
+</center>
+   <h3>História e Cultura Afro-brasileira</h3>
+   <br>
+    <ol>
+        <li>
+            Religião: investigação acerca das crenças, religiões e rituais praticados hoje no Brasil cuja origem seja afrodescendente
+        </li>
+
+    </ol>
+    <a href="afrobrasileira.html">Saiba Mais</a>
+    <br>
+<table border="4" width="30%">
+    <caption><th colspan="2" bgcolor="yellow"><h4>Conhecimento dos entrevistados acerca dos documentos que normatizam o 
+            ensino da História da Cultura Afro-Brasileira e Africana</h4></th></caption>
+            <br>
+    <tr>
+        <th colspan="4">Percentual (%)	Conhecimento da Lei nº 10.639/03 e das DCN</th>
+    </tr>
+    <tr>
+        <td> 26 </td>
+        <td> Conhece o texto na íntegra </td>
+    </tr>
+    <tr>
+        <td> 30 </td>
+        <td> Desconhece totalmente </td>
+    </tr>
+    <tr>
+        <td> 44 </td>
+        <td> Conhece parcialmente </td>
+    </tr>
+    
+</table>
+    <a href="https://educacaopublica.cecierj.edu.br/artigos/18/22/histria-da-frica-e-cultura-afro-brasileira-desafios-e-possibilidades-no-contexto-escolar"> Saiba Mais </a>   
+
+    <br></br>
+    <h3>História e Cultura Indígena</h3>
+    <br>
+    <ol>
+        <li>
+            Religião: investigação acerca das crenças, religiões e rituais indígenas – as práticas religiosas nas tribos e sua
+            influência em religiões praticadas hoje pelos brasileiros.
+        </li>
+    </ol>
+    <a href="CulturaIndígena.html">Saiba Mais</a>
+    <br>
+        <table border="3" width="40%">
+            <caption><th bgcolor="yellow" colspan="4"><h4> População residente, segundo a situação do domicílio e 
+                        condição de indígena – Brasil 1991/2010 </h4></th></caption>
+            <br>
+            <tr>
+                <td>      </td>
+                <th> 1991 </th>
+                <th> 2000 </th>
+                <th> 2010 </th>
+            </tr>
+            <tr>
+                <th> Total(1)    </th>
+                <td> 146.815.790 </td>
+                <td> 169.872.856 </td>
+                <td> 190.755.799 </td>
+            </tr>
+            <tr>
+                <th> Não indígena </th>
+                <td> 145.986.780 </td>
+                <td> 167.932.053 </td>
+                <td> 189.931.228 </td>
+            </tr>
+            <tr>
+                <th> Indígena </th>
+                <td> 294.131  </td>
+                <td> 734.127  </td>
+                <td> 817.963  </td>
+            </tr>
+            <tr>
+                <th> Urbana(1) </th>
+                <td> 110.996.829 </td>
+                <td> 137.925.238 </td>
+                <td> 160.925.792 </td>
+            </tr>
+            <tr>
+                <th> Não indígena </th>
+                <td> 110.494.732 </td>
+                <td> 136.620.255 </td>
+                <td> 160.605.299 </td>
+            </tr>
+            <tr> 
+                <th> Indígena </th>
+                <td> 71.026 </td>
+                <td> 383.298 </td>
+                <td> 315.180 </td>
+            </tr>
+            <tr> 
+                <th> Rural(1) </th>
+                <td> 35.818.961 </td>
+                <td> 31.947.618 </td>
+                <td> 29.830.007 </td>
+            </tr>
+            <tr>
+                <th> Não indígena </th>
+                <td> 35.492.049 </td>
+                <td> 31.311.798 </td>
+                <td> 29.325.929 </td>
+            </tr>
+            <tr> 
+                <th> Indígena </th>
+                <td> 223.105 </td>
+                <td> 350.829 </td>
+                <td> 502.783 </td>
+            </tr>
+        </table>
+        <a href="https://indigenas.ibge.gov.br/graficos-e-tabelas-2.html">Saiba Mais (IBGE, Censo Demográfico 1991/2010)</a>
+        <br></br>
+
+    <h3>Educação Ambiental</h3>
+    <br>
+    <ol>
+        <li>
+            Políticas de reciclagem de materiais: análise da necessidade, da metodologia, das vantagens e das consequências
+            nocivas quando não executadas.
+        </li>
+    </ol>
+    <a href= "EducaçãoAmbiental.html">Saiba Mais</a>
+    <br></br>
+
+        <table  border="4" width="40%">
+            <caption><th bgcolor="yellow" colspan="4"><h4> Fatores de Riscos do Meio Ambiente do Trabalho </h4></th></caption>
+            <tr>
+                <th> Cód.Físicos </th>
+                <th> Fator de Risco </th>
+            </tr>
+            <tr>
+                <td> 01.01.001 </td>
+                <td> Infrassom e sons de baixa frequência </td>
+            </tr>
+            <tr>
+                <td> 01.01.002 </td>
+                <td> Ruído contínuo ou intermitente (legislação previdenciária) </td>
+            </tr>
+            <tr>
+                <td> 01.01.003 </td>
+                <td> Ruído impulsivo ou de impacto </td>
+            </tr>
+            <tr>
+                <td> 01.01.004 </td>
+                <td> Ultrassom </td>
+            </tr>
+            <tr> 
+                <td> 01.01.005 </td>
+                <td> Campos magnéticos estáticos </td>
+            </tr>
+            <tr>
+                <th> Químicos </th>
+            </tr>
+            <tr> 
+                <td> 02.01.001 </td>
+                <td> Acetaldeído (aldeído acético) </td>
+            </tr>
+            <tr>
+                <td> 02.01.002 </td>
+                <td> Acetato de benzila </td>
+            </tr>
+            <tr> 
+                <td> 02.01.003 </td>
+                <td> Acetato de n-butila </td>
+            </tr>
+            <tr> 
+                <td> 02.01.004 </td>
+                <td> Acetato de sec-butila </td>
+            </tr>
+            <tr> 
+                <td> 02.01.005 </td>
+                <td> Acetato de terc-butila </td>
+            </tr>
+            <tr> 
+                <td> 02.01.006 </td>
+                <td> Acetato de 2-butoxietila </td>
+            </tr>
+            <tr> 
+                <th> Ergónomicos </th>
+                <th> Psicossociais / Cognitivos</th>
+            </tr>
+            <tr> 
+                <td> 04.05.001 </td>
+                <td> Excesso de situações de estresse </td>
+            </tr>
+            <tr> 
+                <td> 04.05.002 </td>
+                <td> Situações de sobrecarga de trabalho mental </td>
+            </tr>
+            <tr>
+                <td> 04.05.003 </td>
+                <td> Exigência de alto nível de concentração, atenção e memória </td>
+            </tr>
+        </table>
+        <a href="https://www.tributa.net/tabela-23-fatores-de-riscos-do-meio-ambiente-do-trabalho">Saiba Mais</a>
+    <br></br>
+    
+     <h3>Direitos Humanos</h3>
+    <br>
+    <ol>
+        <li>
+            Artigos I e II da DUDH – Declaração Universal dos Direitos Humanos: liberdade e igualdade em dignidade e direitos –
+            legislação ratificadora e casos de violação.
+        </li>
+    </ol>
+    <a href="DireitosHumanos.html">Saiba Mais</a>
+    <br></br>
+    <table border="4" width="40%">
+        <caption><th bgcolor="yellow" colspan="4"><h4> Livros de Direitos Humanos que você precisa conhecer </h4></th></caption>
+        <tr>
+            <th> Titulo </th>
+            <th> Autor </th>
+        </tr>
+        <tr>
+            <td> A afirmação histórica dos direitos humanos </td>
+            <td> Fábio Konder Comparato </td>
+        </tr>
+        <tr> 
+            <td> A (re)invenção dos Direitos Humanos </td>
+            <td> Joaquín Herrera Flores </td>
+        </tr>
+        <tr> 
+            <td> Curso de Direitos Humanos </td>
+            <td> André Carvalho Ramos </td>
+        </tr>
+        <tr> 
+            <td> Estranhos à nossa porta </td>
+            <td> Zigmunt Baumann </td>
+        </tr>
+        <tr>
+            <td> Se Deus fosse um ativista dos direitos humanos </td>
+            <td> Boaventura de Sousa Santos </td>
+        </tr>
+    </table>
+    <a href="https://relacoesinternacionais.com.br/livros-de-direitos-humanos/">Saiba Mais</a>
+    <br></br>
+
+</body>
+
+</html>
